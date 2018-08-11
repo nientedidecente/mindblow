@@ -17,6 +17,7 @@ export const SWEARINGS = [
     'arsehole',
     'wanker',
     'cunt',
-    'twat',
-    'fuck'
+    'twat'
 ];
+
+export const FUCK = 'fuck';
